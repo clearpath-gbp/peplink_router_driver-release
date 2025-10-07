@@ -1,0 +1,9 @@
+string ip_address
+string connection_type
+string name
+string mac
+bool active
+int32 vlan_id
+peplink_msgs/Lease lease
+peplink_msgs/Bandwidth bandwidth
+wireless_msgs/Connection wifi_connection
